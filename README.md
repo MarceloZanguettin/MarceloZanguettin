@@ -47,10 +47,12 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarceloZanguettin&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-<!--
+
+
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarceloZanguettin/MarceloZanguettin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarceloZanguettin/MarceloZanguettin/output//github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MarceloZanguettin/MarceloZanguettin/output//github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MarceloZanguettin/MarceloZanguetti/raw/output/github-contribution-grid-dark-snake" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MarceloZanguettin/MarceloZanguetti/raw/output/github-contribution-grid-snake" />
+  <img alt="github-snake" src="https://github.com/MarceloZanguettin/MarceloZanguetti/raw/output/github-snake.svg" />
 </picture>
--->
+
