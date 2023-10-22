@@ -32,6 +32,12 @@
 <!--
 **MarceloZanguettin/MarceloZanguettin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<br>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
