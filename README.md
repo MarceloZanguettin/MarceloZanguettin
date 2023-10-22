@@ -47,6 +47,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarceloZanguettin&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+![snake animation](https://github.com/MarceloZanguettin/MarceloZanguettin/blob/output/github-contribution-grid-snake2.svg)
 <!--
 **MarceloZanguettin/MarceloZanguettin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
