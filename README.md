@@ -8,7 +8,6 @@
 
 <br>
 <br>
-<br>
 
 - 🔭 I’m currently working at Máquinas Agricolas Jacto S/A
 
