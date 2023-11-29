@@ -2,7 +2,7 @@
 
 <br>
 
-<h2 align="center"> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2 align="center"> About Me</h2>
 
 <img width="32%" align="right" src="https://github.com/MarceloZanguettin/MarceloZanguettin/blob/main/animation_500_kxa883sd.gif" />
 
@@ -27,7 +27,7 @@
 
 ------
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="100"></h2>
+<h2 align="center">Technology Stack</h2>
 <p align="center" style="display= inline_block">
 <code><a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="virtual studio code" width="60" height="60"/></a></code>
 <code><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a></code>
@@ -64,7 +64,7 @@
 <code><a href="https://www.linux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a></code>
 <!--<code><a href="https://vuejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="60" height="60"/></a></code>--></p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="100"></h2>
+<h2 align="center">Reach me out on</h2>
 <p align="center" style="display= inline_block">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" width="60" height="60" /></a>
 <a href="https://www.linkedin.com/in/marcelo-zanguettin-pereira-887ba597/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marcelo Zanguettin Pereira Linkedin profile" width="60" height="60" /></a>
