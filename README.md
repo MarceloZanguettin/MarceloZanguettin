@@ -8,10 +8,6 @@
 
 <br>
 <br>
-
-- 🔭 I’m currently working at Máquinas Agricolas Jacto S/A
-
-- 🌱 I’m currently learning Data Science
   
 - 💬 Ask me about SQL, NoSQL, Java, C#, JavaScript, IA, Machine Learning
   
